@@ -1,16 +1,20 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**0erik0/0erik0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Olá eu sou o Erick! Tudo bom? 
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens: <strong style="margin-left:25px"><p>- Python</p><p>- CSS</p><p>- HTML</p><p>- Javascript</p><p>- PHP</p></strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: <strong style="margin-left:25px"><p>- Power Bi</p><p>- Pacote Mirosoft Office</p></strong>
+</p>
+
+<p align="left">
+  💌 <a href="mailto:contato@erickriola.com?subject=Contato GitHub&body=Olá, vi seu github e estou entrando em contato para: ">contato@erickriola.com</a>
+</p>
+<p align="left" style="margin-top:25px;">
+  E ainda vou colocar mais coisas aqui em breve...
+</p>
